@@ -1,0 +1,10 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+use IEEE.NUMERIC_STD.ALL;
+entity g22_lab1 is
+	Port(	clk 			: in	std_logic;
+			countbytwo	: in	std_logic;
+			rst			: in	std_logic;
+			enable		: in	std_logic;
+			output		: out	std_logic_vector(7 downto 0));
+end g22_lab1
