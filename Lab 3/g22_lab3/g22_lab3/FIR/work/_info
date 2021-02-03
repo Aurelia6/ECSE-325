@@ -1,0 +1,94 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/16.1
+Eg22_lab3_fir
+Z0 w1586117570
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dP:/g22_lab3/FIR
+Z5 8P:/g22_lab3/FIR/g22_lab3_FIR.vhd
+Z6 FP:/g22_lab3/FIR/g22_lab3_FIR.vhd
+l0
+L5
+Vdh=b3zh>XVbcigg3BS=kj0
+!s100 0cj]TZo8o]4kVC3EHR6Bn3
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1586311832
+!i10b 1
+Z9 !s108 1586311832.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|P:/g22_lab3/FIR/g22_lab3_FIR.vhd|
+Z11 !s107 P:/g22_lab3/FIR/g22_lab3_FIR.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Afir
+R1
+R2
+R3
+DEx4 work 12 g22_lab3_fir 0 22 dh=b3zh>XVbcigg3BS=kj0
+l20
+L14
+V5?QOlPQS3T5a_TRFlK0kP3
+!s100 ?m9YXc3;=mc8AFV5g30_]2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Eg22_lab3_fir_tb
+Z14 w1586311826
+Z15 DPx4 ieee 16 std_logic_textio 0 22 V5TSK`;aJKC<l]CEg1>mz1
+R1
+R2
+R3
+R4
+Z16 8P:/g22_lab3/FIR/g22_lab3_FIR_tb.vhd
+Z17 FP:/g22_lab3/FIR/g22_lab3_FIR_tb.vhd
+l0
+L7
+VLKmoo:?Q^SnFAmikjz8l_0
+!s100 5?nNPce7@2:fXon=??cW52
+R7
+32
+R8
+!i10b 1
+R9
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|P:/g22_lab3/FIR/g22_lab3_FIR_tb.vhd|
+Z19 !s107 P:/g22_lab3/FIR/g22_lab3_FIR_tb.vhd|
+!i113 1
+R12
+R13
+Atest
+R15
+R1
+R2
+R3
+Z20 DEx4 work 15 g22_lab3_fir_tb 0 22 LKmoo:?Q^SnFAmikjz8l_0
+l32
+L10
+V5Ll:<>Q<aPR38N>nJ6ZeK2
+!s100 ID]?3C467mMRlHh?c6O]T3
+R7
+32
+R8
+!i10b 1
+R9
+R18
+R19
+!i113 1
+R12
+R13
