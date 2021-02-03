@@ -1,0 +1,31 @@
+|g22_lab1
+clk => counter[0].CLK
+clk => counter[1].CLK
+clk => counter[2].CLK
+clk => counter[3].CLK
+clk => counter[4].CLK
+clk => counter[5].CLK
+clk => counter[6].CLK
+clk => counter[7].CLK
+countbytwo => count_process.IN0
+countbytwo => count_process.IN0
+rst => counter.OUTPUTSELECT
+rst => counter.OUTPUTSELECT
+rst => counter.OUTPUTSELECT
+rst => counter.OUTPUTSELECT
+rst => counter.OUTPUTSELECT
+rst => counter.OUTPUTSELECT
+rst => counter.OUTPUTSELECT
+rst => counter.OUTPUTSELECT
+enable => count_process.IN1
+enable => count_process.IN1
+output[0] <= counter[0].DB_MAX_OUTPUT_PORT_TYPE
+output[1] <= counter[1].DB_MAX_OUTPUT_PORT_TYPE
+output[2] <= counter[2].DB_MAX_OUTPUT_PORT_TYPE
+output[3] <= counter[3].DB_MAX_OUTPUT_PORT_TYPE
+output[4] <= counter[4].DB_MAX_OUTPUT_PORT_TYPE
+output[5] <= counter[5].DB_MAX_OUTPUT_PORT_TYPE
+output[6] <= counter[6].DB_MAX_OUTPUT_PORT_TYPE
+output[7] <= counter[7].DB_MAX_OUTPUT_PORT_TYPE
+
+
